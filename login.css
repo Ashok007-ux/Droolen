@@ -1,5 +1,5 @@
 body {
-    background-image: url(1.png);
+    background-image: url(login.jpeg);
     background-position: center;
     background-size: cover;
     height: 95vh;
@@ -84,4 +84,5 @@ input:hover {
 .button-edit:hover {
     background-color: rgba(214, 206, 206, 0.717);
     color: black;
+
 }
